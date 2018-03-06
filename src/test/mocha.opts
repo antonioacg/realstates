@@ -1,0 +1,4 @@
+--reporter spec
+--require ts-node/register
+--watch-extensions ts --watch
+src/test/**/*.ts
