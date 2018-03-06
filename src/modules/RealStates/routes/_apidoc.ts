@@ -1,6 +1,6 @@
 /**
  * @api {get} /realstates Lists all Real States
- * @apiName GetRealStates
+ * @apiName GetAllRealStates
  * @apiGroup Real State
  * @apiVersion  1.0.0
  * @apiPermission Token
@@ -20,7 +20,7 @@
 
 /**
  * @api {post} /realstates/ Add a new Real State
- * @apiName AddRealState
+ * @apiName AddNewRealState
  * @apiGroup Real State
  * @apiVersion  1.0.0
  * @apiPermission Token

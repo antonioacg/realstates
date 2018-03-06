@@ -1,7 +1,7 @@
 {
-  "name": "realstates-list",
+  "name": "realstates",
   "version": "1.0.0",
-  "description": "Lists all Real States and Insert a new one",
+  "description": "Lists and Inserts Real States on a MongoDB database, using node-js and typescript",
   "main": "index.js",
   "license": "MIT",
   "author": {
